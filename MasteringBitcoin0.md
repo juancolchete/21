@@ -10,7 +10,7 @@ Year	Block Height	Block Reward (BTC)	New BTC per Day
 2024	840,000	3.125 BTC	~450 BTC  
 2028	1,050,000	1.5625 BTC	~225 BTC  
 # What are transaction inputs and outputs and what do they have to do with the transfer of value?  
-Source of spents and spents destinations.
+Source of spents and spents destinations, output needs to be new UTXOs.  
 # Why is a transaction fee needed and how is it calculated?  
 Based on demand on memPool.  
 Sats per v Byte * vBytes
