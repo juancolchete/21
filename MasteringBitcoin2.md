@@ -5,4 +5,4 @@ BIPs are protocol changes to change the Bitcoin current implementation, their ro
 ## What are some common reasons you would run your own full node?
 Soberany, no need to trust anyone, be part of consensus.  
 ## What is the difference between a pruned node and a full (AKA archival) node?
-Pruned do not store all the consensus, and full node store all blockchain data.  
+Pruned do not store all the consensus, and full node store all blockchain data, and be able to retrive old data
